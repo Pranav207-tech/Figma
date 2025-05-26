@@ -1,5 +1,7 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Name: Pranav K
+## Reg no: 212224040240
+## Date: 26.05.25
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -33,10 +35,35 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
+Home page
 
+<img style="width: 100%; height: 100%" src="https://placehold.co/675x1200" />
+// No text styles in this selection
+
+Register page
+
+<img style="width: 100%; height: 100%" src="https://placehold.co/675x1200" />
+// No text styles in this selection
+
+Hackathon Page
+
+<img style="width: 100%; height: 100%" src="https://placehold.co/675x1200" />
+// No text styles in this selection
+
+Details page
+
+<img style="width: 100%; height: 100%" src="https://placehold.co/675x1200" />
+// No text styles in this selection
+
+Thank you page
+
+<img style="width: 100%; height: 100%" src="https://placehold.co/675x1200" />
+// No text styles in this selection
+```
 
 ## OUTPUT:
-
+![alt text](<Screenshot 2025-05-26 191807.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
